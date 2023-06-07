@@ -12,3 +12,4 @@ Information on the various play school programmes, including pre-nursery, nurser
 The registration page collects essential details for enrollment, including the student's name, age, and gender. 
 It also captures important information about the parents or guardians, such as their names, contact information, and any special instructions or preferences.
 This page streamlines the enrollment process and ensures accurate record-keeping for the play school.
+https://sites.google.com/view/smilesandsprinklesplaygroup.
